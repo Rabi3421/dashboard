@@ -50,7 +50,7 @@ export function JwtSignInView() {
   const defaultValues = {
     email: 'demo@minimals.cc',
     // password: '@demo1',
-    password: 'rajat123',
+    password: '@demo1',
   };
 
   const methods = useForm({

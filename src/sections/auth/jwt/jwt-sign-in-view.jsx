@@ -49,6 +49,7 @@ export function JwtSignInView() {
 
   const defaultValues = {
     email: 'demo@minimals.cc',
+    // password: '@demo1',
     password: '@demo1',
   };
 
